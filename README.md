@@ -27,6 +27,3 @@ Funcionalidades principais:
 - **Selenium** – para automação de sites dinâmicos  
 - **Tkinter** – para criação da interface gráfica e manipulação de planilhas  
 - **pandas** e **openpyxl** – para manipulação e salvamento de dados em planilhas Excel/CSV  
-- **schedule** – para agendamento de execuções automáticas (opcional)
-
-
